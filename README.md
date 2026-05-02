@@ -20,3 +20,5 @@ pip install -r requirements.txt
 python apriori.py
 python clustering.py
 python decision_tree.py
+
+AUTHOR- MOHAMMED AUTA
